@@ -1,4 +1,0 @@
-# Five Nights At Freddys
-- Los primeros tres juegos involucran al jugador, Mike, que trabaja como un guardia de seguridad nocturno, debiendo utilizar varias herramientas (sobre todo revisar cámaras de seguridad) para sobrevivir contra los animales animatrónicos del restaurante, que cobran vida y se vuelven asesinos desquiciados durante la madrugada. El cuarto juego, que utiliza diferentes mecánicas de juego que sus predecesores, tiene lugar en la casa de un niño que debe defenderse contra terroríficas versiones de los animatrónicos e intentando evitar que entren en la habitación.
-
-![Foto FNAF](https://i.3djuegos.com/juegos/11837/five_nights_at_freddy__039_s/fotos/ficha/five_nights_at_freddy__039_s-5025238.jpg)
